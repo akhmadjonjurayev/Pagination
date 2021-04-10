@@ -1,0 +1,9 @@
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\bin\Debug\netstandard2.0\Repository.dll
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\bin\Debug\netstandard2.0\Repository.pdb
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\obj\Debug\netstandard2.0\Repository.dll
+D:\pragrammalar\dasturlar\c#\Asp.net core\Yahyo\Repository\obj\Debug\netstandard2.0\Repository.pdb
